@@ -10,15 +10,15 @@ Passo a Passo
 
  1- Start no Apache e mySQL através do Xampp
 
- 2 -  npm install 
+ 2 -  npm install <br>
 No VS CODE para instalar todas as dependencias utilizadas no Projeto 
 
-Na pasta FrontEnd utilizar o comando 
+Na pasta FrontEnd utilizar o comando <br>
  3 - npm run start 
  
 
-Abra um novo terminal para a pasta API
- 1 - npm install 
+Abra um novo terminal para a pasta API <br>
+ 1 - npm install <br>
 
  2 - npm run start 
 
