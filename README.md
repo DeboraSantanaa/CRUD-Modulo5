@@ -8,18 +8,18 @@ por implementar uma dessas entidades. ⇒ Entrega: deve ser feita em um único r
 
 Passo a Passo
 
-$ 1 - Start no Apache e mySQL através do Xampp
+ 1- Start no Apache e mySQL através do Xampp
 
-$ 2 -  npm install 
+ 2 -  npm install 
 No VS CODE para instalar todas as dependencias utilizadas no Projeto 
 
 Na pasta FrontEnd utilizar o comando 
- $ 3 - npm run start 
+ 3 - npm run start 
  
 
 Abra um novo terminal para a pasta API
-$ 1 - npm install 
+ 1 - npm install 
 
-$ 2 - npm run start 
+ 2 - npm run start 
 
 
